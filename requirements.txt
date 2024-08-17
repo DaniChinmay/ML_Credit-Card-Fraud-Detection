@@ -6,3 +6,4 @@ imbalanced-learn==0.10.1
 pillow==10.3.0
 streamlit==1.37.1
 setuptools
+distutils
